@@ -66,7 +66,7 @@ Apache License 2.0.
     }
 	
     dependencies {
-        compile 'com.github.lecho:hellocharts-android:v1.5.8'
+        compile 'com.github.lecho:hellocharts-android:v1.5.8@aar'
     }
  ```
  
